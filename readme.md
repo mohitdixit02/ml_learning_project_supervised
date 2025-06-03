@@ -41,7 +41,8 @@ python main.py
     <li>Model prediction: Predicting the disease result based on the user input.</li>
     </ol>
 </p>
-![Project Workflow](./data/workflow.png)
+
+![Project Workflow](data/workflow.png?raw=true "Project Workflow")
 
 <h4>- Thanks -</h4>
 For any query, email at: mohit.vsht@gmail.com - Mohit Sharma
